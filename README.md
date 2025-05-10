@@ -1,6 +1,6 @@
 # go-har
 
-[![GoDoc](https://godoc.org/github.com/chaunsin/go-har?status.svg)](https://godoc.org/github.com/chaunsin/go-har) [![Go Report Card](https://goreportcard.com/badge/github.com/chaunsin/go-har)](https://goreportcard.com/report/github.com/chaunsin/go-har)
+[![GoDoc](https://godoc.org/github.com/lhchavez/go-har?status.svg)](https://godoc.org/github.com/lhchavez/go-har) [![Go Report Card](https://goreportcard.com/badge/github.com/lhchavez/go-har)](https://goreportcard.com/report/github.com/lhchavez/go-har)
 
 golang parsing and constructing HAR files
 
@@ -37,7 +37,7 @@ import (
 	"net/http"
 	"time"
 
-	har "github.com/chaunsin/go-har"
+	har "github.com/lhchavez/go-har"
 )
 
 func Example() {

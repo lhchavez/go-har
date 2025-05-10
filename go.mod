@@ -1,4 +1,4 @@
-module github.com/chaunsin/go-har
+module github.com/lhchavez/go-har
 
 go 1.21
 
